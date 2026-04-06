@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1197" height="896" viewBox="0 0 1197 896">
+      <image href="http://127.0.0.1:4000/template/second.jpeg" width="1197" height="896" preserveAspectRatio="none" />
+      
+      
+      
+        <rect
+          id="title-mask"
+          x="258"
+          y="67"
+          width="680"
+          height="92"
+          rx="16"
+          fill="#1a1a1a"
+          fill-opacity="0.84"
+        />
+      
+        <rect
+          id="qr-mask"
+          x="355"
+          y="194"
+          width="484"
+          height="484"
+          rx="28"
+          fill="#f8f8f8"
+          fill-opacity="0.95"
+        />
+      
+        <rect
+          id="footer-mask"
+          x="266"
+          y="731"
+          width="664"
+          height="92"
+          rx="16"
+          fill="#1a1a1a"
+          fill-opacity="0.84"
+        />
+      
+      <rect
+        id="qr-area"
+        data-type="qr-placeholder"
+        x="374"
+        y="213"
+        width="446"
+        height="446"
+        rx="18"
+        fill="rgba(255,255,255,0.92)"
+        stroke="rgba(15,23,42,0.24)"
+        stroke-width="4"
+      />
+      
+        <text
+          id="title"
+          data-editable="true"
+          x="598"
+          y="128"
+          fill="#f5f5f5"
+          font-size="54"
+          font-weight="800"
+          text-anchor="middle"
+          font-family="Arial, sans-serif"
+        >
+          DRIVER PROFILE
+        </text>
+      
+        <text
+          id="footer"
+          data-editable="true"
+          x="598"
+          y="804"
+          fill="#f5f5f5"
+          font-size="46"
+          font-weight="800"
+          text-anchor="middle"
+          font-family="Arial, sans-serif"
+        >
+          SCAN FOR DETAILS
+        </text>
+      
+      
+    </svg>

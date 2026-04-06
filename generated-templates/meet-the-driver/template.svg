@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1142" height="922" viewBox="0 0 1142 922">
+      <image href="http://127.0.0.1:4000/template/first.jpeg" width="1142" height="922" preserveAspectRatio="none" />
+      
+      
+      
+        <rect
+          id="title-mask"
+          x="204"
+          y="78"
+          width="734"
+          height="96"
+          rx="16"
+          fill="#ffffff"
+          fill-opacity="0.92"
+        />
+      
+        <rect
+          id="qr-mask"
+          x="345"
+          y="196"
+          width="454"
+          height="454"
+          rx="28"
+          fill="#ffffff"
+          fill-opacity="0.96"
+        />
+      
+        <rect
+          id="footer-mask"
+          x="188"
+          y="742"
+          width="768"
+          height="94"
+          rx="18"
+          fill="#ffffff"
+          fill-opacity="0.94"
+        />
+      
+      <rect
+        id="qr-area"
+        data-type="qr-placeholder"
+        x="362"
+        y="213"
+        width="420"
+        height="420"
+        rx="18"
+        fill="rgba(255,255,255,0.92)"
+        stroke="rgba(15,23,42,0.24)"
+        stroke-width="4"
+      />
+      
+        <text
+          id="title"
+          data-editable="true"
+          x="571"
+          y="140"
+          fill="#1f6f78"
+          font-size="54"
+          font-weight="800"
+          text-anchor="middle"
+          font-family="Arial, sans-serif"
+        >
+          MEET THE DRIVER!
+        </text>
+      
+        <text
+          id="footer"
+          data-editable="true"
+          x="571"
+          y="814"
+          fill="#111111"
+          font-size="44"
+          font-weight="800"
+          text-anchor="middle"
+          font-family="Arial, sans-serif"
+        >
+          SCAN TO LEARN MORE
+        </text>
+      
+      
+    </svg>

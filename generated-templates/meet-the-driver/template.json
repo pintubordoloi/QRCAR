@@ -1,0 +1,161 @@
+{
+  "templateName": "Meet The Driver",
+  "sourceImage": "first.jpeg",
+  "width": 1142,
+  "height": 922,
+  "editableFields": [
+    {
+      "id": "title",
+      "type": "text",
+      "default": "MEET THE DRIVER!",
+      "x": 571,
+      "y": 140,
+      "width": 720,
+      "height": 90,
+      "fontSize": 54,
+      "fontWeight": 800,
+      "textAnchor": "middle",
+      "fill": "#1f6f78",
+      "dataEditable": true
+    },
+    {
+      "id": "footer",
+      "type": "text",
+      "default": "SCAN TO LEARN MORE",
+      "x": 571,
+      "y": 814,
+      "width": 720,
+      "height": 74,
+      "fontSize": 44,
+      "fontWeight": 800,
+      "textAnchor": "middle",
+      "fill": "#111111",
+      "dataEditable": true
+    }
+  ],
+  "qr": {
+    "id": "qr-area",
+    "x": 362,
+    "y": 213,
+    "width": 420,
+    "height": 420
+  },
+  "overlayRegions": [
+    {
+      "id": "title-mask",
+      "x": 204,
+      "y": 78,
+      "width": 734,
+      "height": 96,
+      "radius": 16,
+      "fill": "#ffffff",
+      "opacity": 0.92
+    },
+    {
+      "id": "qr-mask",
+      "x": 345,
+      "y": 196,
+      "width": 454,
+      "height": 454,
+      "radius": 28,
+      "fill": "#ffffff",
+      "opacity": 0.96
+    },
+    {
+      "id": "footer-mask",
+      "x": 188,
+      "y": 742,
+      "width": 768,
+      "height": 94,
+      "radius": 18,
+      "fill": "#ffffff",
+      "opacity": 0.94
+    }
+  ],
+  "canvasElements": [],
+  "appDesign": {
+    "templateMode": "image-derived",
+    "templateDefinition": {
+      "templateName": "Meet The Driver",
+      "width": 1142,
+      "height": 922,
+      "backgroundImage": "http://127.0.0.1:4000/template/first.jpeg",
+      "editableFields": [
+        {
+          "id": "title",
+          "type": "text",
+          "default": "MEET THE DRIVER!",
+          "x": 571,
+          "y": 140,
+          "width": 720,
+          "height": 90,
+          "fontSize": 54,
+          "fontWeight": 800,
+          "textAnchor": "middle",
+          "fill": "#1f6f78",
+          "dataEditable": true
+        },
+        {
+          "id": "footer",
+          "type": "text",
+          "default": "SCAN TO LEARN MORE",
+          "x": 571,
+          "y": 814,
+          "width": 720,
+          "height": 74,
+          "fontSize": 44,
+          "fontWeight": 800,
+          "textAnchor": "middle",
+          "fill": "#111111",
+          "dataEditable": true
+        }
+      ],
+      "overlayRegions": [
+        {
+          "id": "title-mask",
+          "x": 204,
+          "y": 78,
+          "width": 734,
+          "height": 96,
+          "radius": 16,
+          "fill": "#ffffff",
+          "opacity": 0.92
+        },
+        {
+          "id": "qr-mask",
+          "x": 345,
+          "y": 196,
+          "width": 454,
+          "height": 454,
+          "radius": 28,
+          "fill": "#ffffff",
+          "opacity": 0.96
+        },
+        {
+          "id": "footer-mask",
+          "x": 188,
+          "y": 742,
+          "width": 768,
+          "height": 94,
+          "radius": 18,
+          "fill": "#ffffff",
+          "opacity": 0.94
+        }
+      ],
+      "qr": {
+        "id": "qr-area",
+        "x": 362,
+        "y": 213,
+        "width": 420,
+        "height": 420
+      },
+      "background": null
+    },
+    "templateTextValues": {
+      "title": "MEET THE DRIVER!",
+      "footer": "SCAN TO LEARN MORE"
+    },
+    "canvasElements": [],
+    "posterEnabled": false
+  }
+}
